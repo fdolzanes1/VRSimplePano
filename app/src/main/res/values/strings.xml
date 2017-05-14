@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VRSimplePano</string>
+
+    <string name="title">Machu Picchu\nPatrimônio Mundial</string>
+    <string name="subtitle">A mundialmente famosa Cidade dos Andes</string>
+    <string name="paragraph1">Machu Picchu é uma cidadela inca situada nas montanhas dos Andes em Peru, acima do vale do rio Urubamba.</string>
+
+    <string name="image_caption">Uma vista panorâmica de Machu Picchu</string>
+
+    <string name="paragraph2">Ele está situado em uma montanha cume acima do Vale Sagrado que é 80 a 50 km ao noroeste de Cuzco e através do qual flui o Rio Urubamba.
+        A maioria dos arqueólogos acredita que Machu Picchu foi construído como uma propriedade para o imperador Inca
+     Pachacuti (1438-1472). Muitas vezes erroneamente referida como a Cidade Perdida dos Incas, É o ícone mais conhecido da civilização Inca.
+
+\n\nOs Incas construíram a propriedade em torno de 1450, mas a abandonaram um século mais tarde, na época da
+     Conquista espanhola. Embora conhecida localmente, não era conhecida pelos espanhóis durante o período colonial
+     Período e permaneceu desconhecido para o mundo exterior antes de ser trazido à atenção internacional
+     Em 1911 pelo historiador americano Hiram Bingham. A maioria dos edifícios periféricos
+     Reconstruído a fim de dar aos turistas uma melhor idéia do que as estruturas originalmente
+     Parecia Em 1976, 30% de Machu Picchu tinha sido restaurado; Restauração continua hoje.
+
+\n\nMachu Picchu foi declarado um santuário histórico peruano em 1981 e um Património Mundial da UNESCO
+     Em 2007, Machu Picchu foi eleito uma das Novas Sete Maravilhas do Mundo em um
+     Pesquisa na Internet.
+  </string>
+
+    <string name="source">Fonte &lt;a href="https://en.wikipedia.org/wiki/Machu_Picchu">Wikipedia&lt;/a></string>
+</resources>
